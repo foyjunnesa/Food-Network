@@ -1,0 +1,50 @@
+body{
+    
+}
+
+section{
+    display: flex;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 60px;
+}
+
+.half-width p{
+    color: #828282;
+    font-family: monospace;
+    font-size: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.top-banner{
+    color: #575757;
+    position: absolute;
+}
+
+.skip-color{
+    color: #fba24f;
+}
+
+.half-width{
+    width: 50%;
+    padding: 20px;
+}
+
+.half-width img{
+    width: 80%;
+}
+
+.link-button{
+    font-family: monospace;
+    text-decoration: none;
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    padding: 20px 50px;
+    border-radius: 30px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    text-shadow: black;
+}
